@@ -1,2 +1,2 @@
 # odin-recipes
-HTML practice project from The Odin Project
+This is a practice HTML project created using The Odin Project instructions.
