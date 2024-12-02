@@ -1,1 +1,0 @@
-This is the HTML practice project created by using the instructions from The Odin Project.
